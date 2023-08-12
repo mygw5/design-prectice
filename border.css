@@ -1,0 +1,25 @@
+.memo {
+  background:#f8f0d7;
+  border-left: 5px dotted rgba(0, 0, 0, .1);
+  box-shadow: 0 0 0 5 #f8f0d7;
+  padding: 1em ;
+  margin: 1em 5px;
+}
+
+.tape-box{
+  margin: 1em 0;
+  padding: 1em;
+  background-color: #ffffcc;
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.15);
+}
+
+.tape {
+  background-color: #ccb;
+  opacity: 0.2;
+  transform: rotate(3deg);
+  width: 40%;
+  height: 35px;
+  margin: -2em auto 0 auto;
+  border-left: 3px dotted rgba(0, 0, 0, 0.1);
+  border-rigth: 3px dotted rgba(0, 0, 0, 0.1);
+}
