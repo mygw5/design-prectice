@@ -19,21 +19,6 @@ body {
   position: relative;
 }
 
-
-
-h1 {
-  text-align: center;
-  font-size: 100px;
-  color: rgba(255, 255, 255, 0.5);
-
-}
-
-.btn {
-  text-align: center;
-  color: #fff;
-}
-
-
 .back::before,
 .back::after {
   content: '';
